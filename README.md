@@ -5,7 +5,7 @@
 [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vieira-31354525b/)
 
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrovieirv&show_icons=true&theme=dark)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrovieirv&show_icons=true&theme=one-dark)
 
 ## Tecnologias que eu uso no meu dia
 
